@@ -1,0 +1,1 @@
+document.querySelectorAll('.service').forEach((x,i)=>{x.style.animation=`up .55s ease ${i*.08}s both`});
